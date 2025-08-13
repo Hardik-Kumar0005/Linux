@@ -1,1 +1,1 @@
-I3WM config
+I3WM config files
